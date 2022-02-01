@@ -3,7 +3,7 @@ import TestEnvironment from '../TestEnvironment'
 
 const fileTab = By2.nativeName('File tab');
 const open = By2.nativeName('Open');
-const image = By2.nativeName('docornote.jpg');
+const image = By2.nativeName('TestingImage.png');
 const openImage = By2.nativeAccessibilityId('1');
 const text = By2.nativeName('Text');
 const element  = By2.nativeClassName('Afx:2d0000:8');
